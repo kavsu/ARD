@@ -78,6 +78,10 @@
                                      <li role="presentation"><a role="menuitem" tabindex="-1" href="manage-messages.php">Manage Messages</a></li>
                                 </ul>
                             </li>
+                            <li>
+                                <a href="https://www.blogger.com/u/2/blogger.g?blogID=5059503585056449182#editor/target=post;postID=2630538932715774336" class="dropdown-toggle" id="ddlmenuItem" data-toggle="dropdown"> Blog </a>
+                                
+                            </li>
                             
                             
                         </ul>

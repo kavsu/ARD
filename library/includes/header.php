@@ -58,7 +58,7 @@ include ("includes/config.php");
                                 </a>
                                 
                                 </li>
-                          
+                          <li><a href="ARDOLMS.admin.htm">Blog</a></li>
 
                         </ul>
                     </div>
